@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://deninobarros.com.br/sitemap.xml
+
+# Crawl-delay para não sobrecarregar o servidor
+Crawl-delay: 1
+
+# Permitir indexação de todas as páginas importantes
+Allow: /sobre
+Allow: /consultoria
+Allow: /contato
+
+# Informações do site
+# Site: Denin Barros - Consultoria Individual
+# Descrição: Mentor espiritual especializado em relacionamentos e autoestima
+# Contato: contato@deninobarros.com.br
